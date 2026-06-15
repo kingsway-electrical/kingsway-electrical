@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kingsway-electrical/kingsway-electrical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://kingsway-electrical.com/assets/logos/kingsway-landscape.png" alt="Kingsway Electrical" width="430">
 
-Here are some ideas to get you started:
+# Kingsway Electrical Contractors Ltd
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reliable electrical work, done right.
+
+NAPIT-registered electrician based in **Tunbridge Wells**, with over 10 years of
+experience across domestic and commercial projects. Covering Tunbridge Wells,
+Kent, London and East Sussex.
+
+[**Visit kingsway-electrical.com**](https://kingsway-electrical.com) &nbsp;·&nbsp; +44 7837 321291 &nbsp;·&nbsp; info@kingsway-electrical.com
+
+</div>
+
+---
+
+### What we do
+
+- **Domestic:** lighting, consumer units, EV chargers, rewires, sockets and outdoor installations
+- **Commercial and industrial:** power, containment, lighting and distribution boards
+- **Inspection and testing:** EICRs, certification and fault finding
+- **Repairs and maintenance:** tidy fixes, from a dead socket to a full board upgrade
+
+### Qualified and accredited
+
+- NAPIT registered ([verify our registration](https://search.napit.org.uk/member/70166/kingsway-electrical-contractors-ltd))
+- City & Guilds 2391 (Inspection and Testing)
+- NVQ Level 3 &nbsp;·&nbsp; 18th Edition &nbsp;·&nbsp; AM2
+- SMAS Worksafe accredited &nbsp;·&nbsp; Dementia Friends &nbsp;·&nbsp; VAT registered
+
+### Get in touch
+
+Based in Tunbridge Wells, covering Kent, London and East Sussex. Tell us about
+the job and we will get back to you, by phone or email, whichever suits.
+
+**[kingsway-electrical.com/#contact](https://kingsway-electrical.com/#contact)**
