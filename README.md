@@ -12,6 +12,8 @@ Kent, London and East Sussex.
 
 [**Visit kingsway-electrical.com**](https://kingsway-electrical.com) &nbsp;·&nbsp; +44 7837 321291 &nbsp;·&nbsp; info@kingsway-electrical.com
 
+[Instagram](https://www.instagram.com/kingsway.electrical/) &nbsp;·&nbsp; [Facebook](https://www.facebook.com/share/1Cf3zeGQAm/)
+
 </div>
 
 ---
